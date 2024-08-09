@@ -12,7 +12,7 @@
 
 该整合包已添加CommonProblemResolver救砖插件 <br> 可Hekate下删除主题和关闭插件自动启动<br>
 进去1是关闭插件自启动，2是删除安装的主题，有效解决进不去HOS系统的故障<br>
-更详细说明请见[官方说明](https://github.com/zdm65477730/CommonProblemResolver/)
+更详细说明请见[官方说明](https://github.com/zdm65477730/CommonProblemResolver/)<br><br><br>
 
 
 如果你的NX无法稳定运行或经常出现安装使用Ubuntu和Android有玄学问题，请考虑你的芯片是否需要更新固件
