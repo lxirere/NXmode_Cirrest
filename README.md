@@ -6,10 +6,9 @@
 
 * Telsa是UltraPaw，减少卡屏等键位冲突
 * UltraPaw按键：ZL+ZR+ZDDown(左下按键)
-  * 【推荐】格式化SD卡重做系统使用最稳定(如果是我上一版本的可以直接覆盖更新)
-
 * 新手小白向 - 安全的升级Switch大气层HOS/整合包教程：
-[酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)
+[酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)<br>
+  * 【推荐】格式化SD卡重做系统使用最稳定(如果是我上一版本的可以直接覆盖更新)<br><br><br>
 
 该整合包已添加CommonProblemResolver救砖插件 <br> 可Hekate下删除主题和关闭插件自动启动<br>
 进去1是关闭插件自启动，2是删除安装的主题，有效解决进不去HOS系统的故障<br>
@@ -18,16 +17,16 @@
 
 如果你的NX无法稳定运行或经常出现安装使用Ubuntu和Android有玄学问题，请考虑你的芯片是否需要更新固件
 ----
-* Hwfly toolbox
+* Hwfly toolbox<br>
 hwfly工具箱，hwfly芯片专用，支持不可更新固件的hwfly芯片免拆机更新sdloader<br>
 升级正版系统后需再刷sdloader.enc一次，升级虚拟系统不影响<br>
 刷完sdloader.enc后支持不插SD卡，开机后按音量+和-进正版系统<br>
 解压缩后复制sdloader.enc到SD卡根目录<br>
-[Hwfly toolbox](https://github.com/hwfly-nx/hwfly-toolbox/)
-[Hwfly toolbox Firmware](https://github.com/hwfly-nx/firmware/)
+[Hwfly toolbox](https://github.com/hwfly-nx/hwfly-toolbox/)<br>
+[Hwfly toolbox Firmware](https://github.com/hwfly-nx/firmware/)<br>
 
-* Picofly toolbox
-树莓派芯片工具箱，rp2040芯片专用，支持免拆机更新sdloader和树莓派固件
+* Picofly toolbox<br>
+树莓派芯片工具箱，rp2040芯片专用，支持免拆机更新sdloader和树莓派固件<br>
 升级树莓派固件是根目录update.bin，能正常使用一般不用升级固件<br>
 [Picofly toolbox](https://github.com/rehius/usk/releases)<br>
 [Picofly Firmwares](https://github.com/Ansem-SoD/Picofly/tree/main/Firmwares)<br><br>
