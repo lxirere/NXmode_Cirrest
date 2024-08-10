@@ -56,7 +56,8 @@ Linkalho<br>
 [sys-clk](https://github.com/retronx-team/sys-clk)<br>
 [SysDVR](https://github.com/exelix11/SysDVR)<br>
 [Thmerzer](https://themezer.net/)<br>
-[tinfoil](https://tinfoil.io/)<br><br><br>
+[tinfoil](https://tinfoil.io/)<br>
+以及所有让我们NX变的更好玩的人<br><br><br>
 
 本项目遵守GPL 2.0协议<br>
 本项目仅作交流学习使用，请勿用于任何非法用途，请在下载24小时之内删除。
