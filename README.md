@@ -8,14 +8,16 @@
 * UltraPaw按键：ZL+ZR+ZDDown(左下按键)
 * 新手小白向 - 安全的升级Switch大气层HOS/整合包教程：
 [酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)<br>
-  * 【推荐】格式化SD卡重做系统使用最稳定(如果是我上一版本的可以直接覆盖更新)<br><br><br>
+  * 【推荐】格式化SD卡重做FAT32系统使用最稳定(如果是我上一版本的可以直接覆盖更新)<br><br>
+  ### ❗该整合包可能不支持软破，因软破不稳定性因素更多，已经长期没有维护软破相关模块，可能在软破及上无法正常启动
+<br>
 
-该整合包已添加CommonProblemResolver救砖插件 <br> 可Hekate下删除主题和关闭插件自动启动<br>
+✅该整合包已添加CommonProblemResolver救砖插件 <br> 可Hekate下删除主题和关闭插件自动启动<br>
 进去1是关闭插件自启动，2是删除安装的主题，有效解决进不去HOS系统的故障<br>
 更详细说明请见[官方说明](https://github.com/zdm65477730/CommonProblemResolver/)<br><br><br>
 
 
-如果你的NX无法稳定运行或经常出现安装使用Ubuntu和Android有玄学问题，请考虑你的芯片是否需要更新固件
+♿♿♿如果你的NX无法稳定运行或经常出现安装使用Ubuntu和Android有玄学问题，请考虑你的芯片是否需要更新固件
 ----
 * Hwfly toolbox<br>
 hwfly工具箱，hwfly芯片专用，支持不可更新固件的hwfly芯片免拆机更新sdloader<br>
@@ -32,7 +34,7 @@ hwfly工具箱，hwfly芯片专用，支持不可更新固件的hwfly芯片免�
 [Picofly Firmwares](https://github.com/Ansem-SoD/Picofly/tree/main/Firmwares)<br><br>
 
 
-鸣谢(排名不分前后):
+🎉鸣谢(排名不分前后):
 ----
 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere?tab=readme-ov-file)<br>
 [Hekate](https://github.com/Atmosphere-NX/Atmosphere?tab=readme-ov-file)<br>
