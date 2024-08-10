@@ -1,11 +1,13 @@
 # Switch大气层整合包
 均来自官方Github源，简洁，稳定，插件齐全<br>
-因为求稳定所以我更新会比较慢，已进行7天压力测试并解决相关bug，稳定使用<br>
+因为求稳定所以我更新会比较慢，已进行7天压力测试并解决相关bug，稳定使用，到手即用。<br>
 默认屏蔽虚拟和真实系统序列号和DNS<br>
 自带HB APPSTORE/常规超频等很多插件，够大部分人用了<br>
+[酷安同步更新](http://www.coolapk.com/u/2679393)
 
 * Telsa是UltraPaw，减少卡屏等键位冲突
 * UltraPaw按键：ZL+ZR+ZDDown(左下按键)
+* 已内置调整风扇转速调节配置并已调优(atmosphere\config\system_settings.ini),风扇调整更细腻平衡，降低主机模式闷热问题，延长掌机模式续航能力
 * 新手小白向 - 安全的升级Switch大气层HOS/整合包教程：
 [酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)<br>
   * 【推荐】格式化SD卡重做FAT32系统使用最稳定(如果是我上一版本的可以直接覆盖更新)<br><br>
