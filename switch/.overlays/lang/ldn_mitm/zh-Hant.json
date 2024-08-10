@@ -1,0 +1,7 @@
+{
+    "PluginName": "聯機插件",
+    "NotLoadedErrorMainGuiListItemText": "ldn_mitm插件沒有加載。",
+    "WrongStateErrorMainGuiListItemText": "錯誤的狀態",
+    "LoggingToggleListItemText": "日誌",
+    "EnabledToggleListItemText": "啟用"
+}
