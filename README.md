@@ -62,5 +62,5 @@ Linkalho<br>
 [CommonProblemResolver](https://github.com/zdm65477730/CommonProblemResolver/?tab=readme-ov-file#commonproblemresolver-cpr)<br>
 以及所有让我们NX变的更好玩的人<br><br><br>
 
-本项目遵守GPL 2.0协议，且本整合作者从未进行任何收费盈利行为！<br>
+本项目遵守GPL 2.0协议，如需使用也请遵守GPL开源协议，本整合作者从未进行任何收费盈利行为！<br>
 本项目仅作交流学习使用，请勿用于任何非法用途，请在下载24小时之内删除。
