@@ -32,7 +32,7 @@ hwfly工具箱，hwfly芯片专用，支持不可更新固件的hwfly芯片免�
 * Picofly toolbox<br>
 树莓派芯片工具箱，rp2040芯片专用，支持免拆机更新sdloader和树莓派固件<br>
 升级树莓派固件是根目录update.bin，能正常使用一般不用升级固件<br>
-[Picofly toolbox]([https://github.com/Ansem-SoD/Picofly/tree/main/Firmwares](https://github.com/Ansem-SoD/Picofly/blob/main/Firmwares/picofly_toolbox_0.2.bin))<br>
+[Picofly toolbox](https://github.com/Ansem-SoD/Picofly/blob/main/Firmwares/picofly_toolbox_0.2.bin)<br>
 [Picofly Firmwares](https://github.com/rehius/usk/releases)<br><br>
 
 
