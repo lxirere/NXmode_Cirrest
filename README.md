@@ -39,7 +39,7 @@ hwfly工具箱，hwfly芯片专用，支持不可更新固件的hwfly芯片免�
 🎉鸣谢(排名不分前后):
 ----
 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere?tab=readme-ov-file)<br>
-[Hekate](https://github.com/Atmosphere-NX/Atmosphere?tab=readme-ov-file)<br>
+[Hekate](https://github.com/CTCaer/hekate)<br>
 [wiliwili](https://github.com/xfangfang/wiliwili)<br>
 [Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM/releases)<br>
 [Ultra-Paw-Overlay](https://github.com/Ultra-NX/Ultra-Paw-Overlay)<br>
