@@ -15,7 +15,9 @@ usb30_force_enabled = u8!0x1
 ```
 * 新手小白向 - 安全的升级Switch大气层HOS/整合包教程：
 [酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)<br>
-  * 【推荐】格式化SD卡重做FAT32系统使用最稳定(如果是我上一版本的可以直接覆盖更新)<br><br>
+  * 【推荐】格式化SD卡重做FAT32系统使用最稳定(如果是我上一版本的可以直接覆盖更新)<br>
+  [HOS系统固件与整合包国内网盘分流(百度)](链接：https://pan.baidu.com/s/16lQpBTBMHm6vKbb0kIMk7g) 
+提取码：sjqj<br>
   ### ❗该整合包可能不支持软破，虽有报告最新版本可以顺利启动，但因软破不稳定性因素更多，已经长期没有维护软破相关模块，可能在软破及上无法稳定正常启动
 <br>
 
