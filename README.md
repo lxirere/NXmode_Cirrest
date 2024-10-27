@@ -9,8 +9,10 @@
 * UltraPaw按键：ZL+ZR+ZDDown(左下按键)
 * 已内置调整风扇转速调节配置并已调优(atmosphere\config\system_settings.ini),风扇调整更细腻平衡，降低主机模式闷热问题，延长掌机模式续航能力
 * 开启USB3.0能有效提高有线传输速度，但会较严重干扰2.4GHz WIFI和蓝牙，如果需要此功能，则需手动取消注释并编辑 Atmosphere 系统设置配置文件来激活此功能，如下所示：/atmosphere/config/system_settings.ini<br>
+```
 [usb]
 usb30_force_enabled = u8!0x1
+```
 * 新手小白向 - 安全的升级Switch大气层HOS/整合包教程：
 [酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)<br>
   * 【推荐】格式化SD卡重做FAT32系统使用最稳定(如果是我上一版本的可以直接覆盖更新)<br><br>
