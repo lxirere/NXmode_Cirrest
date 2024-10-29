@@ -5,13 +5,18 @@
 自带HB APPSTORE/常规超频等很多插件，够大部分人用了<br>
 [酷安同步更新](http://www.coolapk.com/u/2679393)
 
-* Telsa是UltraPaw，减少卡屏等键位冲突
-* UltraPaw按键：ZL+ZR+ZDDown(左下按键)
+* Telsa是Ultrahand，减少卡屏等键位冲突
+* Ultrahand按键：ZL+ZR+ZDDown(左下按键)
 * 已内置调整风扇转速调节配置并已调优(atmosphere\config\system_settings.ini),风扇调整更细腻平衡，降低主机模式闷热问题，延长掌机模式续航能力
-* 开启USB3.0能有效提高有线传输速度，但会较严重干扰2.4GHz WIFI和蓝牙，如果需要此功能，则需手动取消注释并编辑 Atmosphere 系统设置配置文件来激活此功能，如下所示：/atmosphere/config/system_settings.ini<br>
+* 应大部分反馈，20241027版本后默认开启USB3.0，能有效提高有线传输速度，但会较严重干扰2.4GHz WIFI和蓝牙，并且可能在部分电脑和线材在MTP模式下无法识别设备。如果你遇到上述问题，则需手动编辑 Atmosphere 系统设置 **配置文件来禁用此功能，如下所示：<br>
+  目录/atmosphere/config/system_settings.ini<br>
 ```
 [usb]
-usb30_force_enabled = u8!0x1
+usb30_force_enabled = u8!0x0
+```
+目录/bootloader/hekate_ipl.ini<br>
+```
+usb3force=0
 ```
 * 新手小白向 - 安全的升级Switch大气层HOS/整合包教程：
 [酷安链接](https://www.coolapk.com/feed/57053591?shareKey=YWYyOGZjY2U0YTE5NjY3YWRmMTg~&shareUid=2679393&shareFrom=com.coolapk.market_14.0.3)<br>
