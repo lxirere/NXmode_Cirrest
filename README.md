@@ -74,6 +74,7 @@ Linkalho<br>
 [CommonProblemResolver](https://github.com/zdm65477730/CommonProblemResolver/?tab=readme-ov-file#commonproblemresolver-cpr)<br>
 [NX-OVLLOADER](https://github.com/ppkantorski/nx-ovlloader)<br>
 [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)<br>
+[SaltyNX](https://github.com/masagrator/SaltyNX)<br>
 以及所有让我们NX变的更好玩的人<br><br><br>
 
 本项目遵守GPL 2.0协议，如需使用也请遵守GPL开源协议，本整合作者从未进行任何收费盈利行为！<br>
